@@ -1,0 +1,16 @@
+{
+  "name": "backup-with-s3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Yessergire Mohamed",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.403.0",
+    "chokidar": "^2.1.1",
+    "md5-file": "^4.0.0"
+  }
+}
